@@ -11,7 +11,7 @@ export const environment = {
     projectId: "travel-gram-9a372",
     storageBucket: "travel-gram-9a372.appspot.com",
     messagingSenderId: "1003929275521",
-    appId: "1:1003929275521:web:d741640112ef42c08bd180"
+    appId: "1:1003929275521:web:d741640112ef42c08bd180",
   }
 };
 
